@@ -2,7 +2,7 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <h1 align="center"> Hi, I'm Faisal A. ! </h1>
 
-<h3 align="center">I'm an enthusiastic and passionate Full Stack Developer ❤</h3>  
+<h3 align="center">I'm a enthusiastic and passionate Full Stack Developer ❤</h3>  
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=feysalaf.feysalaf)
