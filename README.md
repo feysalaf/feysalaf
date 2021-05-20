@@ -1,4 +1,4 @@
-
+<!-- 
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <h1 align="center"> Hi, I'm Faisal A.! </h1>
 
@@ -66,3 +66,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
