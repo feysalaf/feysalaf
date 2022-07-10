@@ -1,6 +1,6 @@
 <!-- 
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
-<h1 align="center"> Hi, I'm Faisal! A Full Stack Developer and Statistics student at York University </h1>
+<h1 align="center"> Hi, I'm Faisal! A Full Stack Developer </h1>
 
 <!-- <h3 align="center">I'm a enthusiastic and passionate Full Stack Developer ❤</h3>  
  -->
