@@ -1,6 +1,6 @@
 <!-- 
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
-<h1 align="center"> Hi, I'm Faisal! A Full Stack Developer </h1>
+<h1 align="center"> I'm a Full Stack Developer. My specialities include Data Analysis, UI/UX and Automated Systems </h1>
 
 <!-- <h3 align="center">I'm a enthusiastic and passionate Full Stack Developer ❤</h3>  
  -->
